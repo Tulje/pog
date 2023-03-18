@@ -1,3 +1,9 @@
 status
 druga
+<<<<<<< HEAD
 
+=======
+treca na test grani
+
+Nesto
+>>>>>>> test-grana
